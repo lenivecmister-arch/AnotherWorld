@@ -19,10 +19,6 @@ export default defineConfig({
 			title: 'Another World',
 			sidebar: [
 				{
-					label: 'Старые главы',
-					items: [{ autogenerate: { directory: 'Старые главы' } }],
-				},
-				{
 					label: 'Новые главы',
 					items: [{ autogenerate: { directory: 'Новые главы' } }],
 				},
