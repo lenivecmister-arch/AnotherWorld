@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(del \"C:\\\\Users\\\\User\\\\AnotherWorldNew\\\\src\\\\content\\\\docs\\\\Старые главы\\\\example.md\")"
+    ]
+  }
+}
